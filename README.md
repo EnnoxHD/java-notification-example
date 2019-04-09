@@ -1,5 +1,6 @@
 # java-notification-example
 Simple example for creating a desktop notification in Java.
+(Tested on Windows 10)
 
 ## Usage
 It is a Java 11 Eclipse IDE project. Make sure you have Java 11 installed on your system and configured in your IDE.
